@@ -1,0 +1,1 @@
+print in! ("welcome to CSC 101!");
